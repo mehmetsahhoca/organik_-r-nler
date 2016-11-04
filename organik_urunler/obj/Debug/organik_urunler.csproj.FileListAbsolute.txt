@@ -1,6 +1,0 @@
-C:\Users\Mehmet\Documents\Visual Studio 2013\organik_urunler\organik_urunler\bin\organik_urunler.dll.config
-C:\Users\Mehmet\Documents\Visual Studio 2013\organik_urunler\organik_urunler\bin\organik_urunler.dll
-C:\Users\Mehmet\Documents\Visual Studio 2013\organik_urunler\organik_urunler\bin\organik_urunler.pdb
-C:\Users\Mehmet\Documents\Visual Studio 2013\organik_urunler\organik_urunler\obj\Debug\organik_urunler.dll
-C:\Users\Mehmet\Documents\Visual Studio 2013\organik_urunler\organik_urunler\obj\Debug\organik_urunler.pdb
-C:\Users\Mehmet\Documents\Visual Studio 2013\organik_urunler\organik_urunler\obj\Debug\organik_urunler.csprojResolveAssemblyReference.cache
